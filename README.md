@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I know 72 different kinds of birds
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ffups&" alt="ffups" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffups&show_icons=true&locale=en&layout=compact" alt="ffups" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffups&show_icons=true&locale=en&layout=compact" alt="ffups" /></p>
 
 
 
