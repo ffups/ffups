@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on world peace
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about my favourite song of the moment
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I know 72 different birds
+- 😄 Pronouns: They/them
+- ⚡ Fun fact: I know 72 different birbs
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ffups&" alt="ffups" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffups&show_icons=true&locale=en&layout=compact" alt="ffups" /></p>
